@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+}
+h1{
+    font-size: 50px;
+    color: rgb(66, 93, 117);
+}
+
+h2{
+    color: rgb(184, 131, 53);
+    font-size: 30px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
