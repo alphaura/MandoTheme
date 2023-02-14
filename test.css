@@ -6,7 +6,7 @@ body{
     color: white;
     line-height: 30px;
 }
-
+/* Header Styles */
 header{
     color: black;
     background-color: aliceblue;
@@ -30,7 +30,7 @@ header img{
     border: 5px solid black;
     
 }
-
+/* Main Styles */
 main{
     max-width: 800px;
     margin: 0 auto;
@@ -50,6 +50,7 @@ a:hover{
     color: rgb(1, 114, 29);
 }
 
+/* Footer Style */
 footer{
     text-align: center;
     color: black;
