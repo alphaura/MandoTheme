@@ -1,2 +1,2 @@
 # MandoTheme
- Landinh page themed on the Mandolorian
+ Landing page themed on the Mandolorian
